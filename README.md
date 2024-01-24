@@ -21,21 +21,21 @@ Explore the dynamic landscape of data science job opportunities with this datase
 
 Explore visualizations of the dataset with the following charts:
 
-1. **[Chart 1 Title]**
-   ![Chart 1](charts/chart1.png)
+1. **Average Salary By Experience Level**
+   ![AvgSalary](Images/AvgSalary.png)
 
-2. **[Chart 2 Title]**
-   ![Chart 2](charts/chart2.png)
+2. **Employment Type**
+   ![EmpType](Images/EmpType.png)
 
-3. **[Chart 3 Title]**
-   ![Chart 3](charts/chart3.png)
+3. **Maximum Salary vs Minimum Salary By Job Category**
+   ![MaxVsMin](Images/MaxVSMin.png)
 
-4. **[Chart 4 Title]**
-   ![Chart 4](charts/chart4.png)
+4. **Final Dashboard**
+   ![FinalDashboard](Images/Final.png)
 
 ## Dataset Link
 
-Access the dataset on Kaggle: [Jobs in Data Science Dataset](https://www.kaggle.com/your-username/jobs-in-data-science-dataset)
+Access the dataset on Kaggle: [Jobs in Data Science Dataset](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data)
 
 ## Using the Dataset in Power BI
 
@@ -43,7 +43,7 @@ Follow these steps to use the dataset in Power BI:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/jobs-in-data-science-dataset.git
+   https://github.com/Tomioka-Giyuu/JobsInDataScience-Visualization.git
 
 ## Using the Dataset in Power BI
 
