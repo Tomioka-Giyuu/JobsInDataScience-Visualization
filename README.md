@@ -44,3 +44,29 @@ Follow these steps to use the dataset in Power BI:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/jobs-in-data-science-dataset.git
+
+## Using the Dataset in Power BI
+
+Follow these steps to use the dataset in Power BI:
+
+1. **Open Power BI:**
+   ```bash
+   Launch Power BI Desktop on your machine.
+
+3. **Import the Dataset:**
+   ```bash
+   - In Power BI Desktop, go to the "Home" tab.
+   - Click on "Get Data" and choose "Text/CSV."
+   - Select the `data.csv` file from the cloned repository.
+
+5. **Explore Visualizations:**
+   ```bash
+   - Once the dataset is loaded, explore the existing visualizations in the Power BI file (`dataset_visualization.pbix`).
+
+7. **Customize and Analyze:**
+   ```bash
+   - Customize the visualizations or create new ones based on your analysis needs.
+
+9. **Save Changes:**
+    ```bash
+   - Save any changes made to the Power BI file.
